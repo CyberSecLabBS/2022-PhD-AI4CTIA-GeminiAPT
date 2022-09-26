@@ -1,0 +1,13 @@
+tensorflow==1.14
+sklearn
+numpy==1.19.1
+scipy
+matplotlib
+tqdm==4.46.0
+r2pipe
+pyfiglet
+networkx
+keystone
+capstone
+memory-profiler
+pandas

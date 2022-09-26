@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/lucamassarelli/binary_similarity_data/experiments/CCS_big_X86/out/runs/1533645040/checkpoints/model"
+all_model_checkpoint_paths: "/home/lucamassarelli/binary_similarity_data/experiments/CCS_big_X86/out/runs/1533645040/checkpoints/model"
